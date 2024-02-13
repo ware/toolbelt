@@ -80,7 +80,8 @@ Areas that need contributions :
 ## Meeting times
 
 - Every Tuesday @ 12:00pm EST OpenSSF [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-- Meeting [Minutes](https://docs.google.com/document/d/1H3Nk0PwmylLg5F7pqrIvyKzTyXAll0-f50B7DdqOh4A/edit#heading=h.9m0zi4b0wnne)
+- Meeting [Minutes](https://docs.google.com/document/d/1l1wv-EZCfMti1eVxEFgQ1FxSmcAlXOvks417fdkvmkg/edit?tab=t.0#heading=h.9m0zi4b0wnne)
+- Old Meeting [Minutes](https://docs.google.com/document/d/1H3Nk0PwmylLg5F7pqrIvyKzTyXAll0-f50B7DdqOh4A/edit#heading=h.9m0zi4b0wnne)
 
 ## Governance
 
